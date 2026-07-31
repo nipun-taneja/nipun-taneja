@@ -32,7 +32,7 @@ Master's thesis research on IoU-based loss functions for objects with soft bound
 PyTorch, Ultralytics YOLO, Kvasir-SEG, CVC-ClinicDB, ISIC
 
 
-**[ATS Job Discovery Pipeline](#)** <!-- TODO: repo link -->
+**[ATS Job Discovery Pipeline](#)** 
 Pulls live postings directly from Greenhouse, Lever and Ashby endpoints, then scores job-description fit using the Claude API.
 Python, Anthropic API, ETL
 
@@ -49,11 +49,11 @@ Python, PyTorch, scikit-learn, XGBoost, LangGraph, SQL, Docker, AWS, Qdrant
 | Goldman Sachs | Data Science / ML | ML systems in financial services |
 | Barclays | Data Science / ML | Modeling and analytics for banking products |
 
-<!-- TODO: add dates and replace each highlight with one concrete number -->
 
 ## Contact
 
 LinkedIn: [https://www.linkedin.com/in/nipun-taneja/](#) 
+
 Email: nipuntaneja93@gmail.com 
 
 Interviewing now. If you work on eval infrastructure, agent reliability, or applied ML in medical imaging, I'd be glad to talk.
